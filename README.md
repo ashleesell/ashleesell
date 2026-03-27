@@ -12,4 +12,4 @@ Databases: Google BigQuery, MySQL
 Visualization: Tableau, Looker Studio
 
 ## ⚡ Connect with me 
-* [Linkedin](https://www.linkedin.com/in/ashlee-sellung/)-
+* [Linkedin](https://www.linkedin.com/in/ashlee-sellung/)
