@@ -7,7 +7,9 @@ If you'd like to see some examples of the interesting projects I've completed, y
 
 ##  🛠️ Tools + Software
 Language: SQL, Python, Matplotlib, Seaborn, Pandas
+
 Databases: Google BigQuery, MySQL
+
 Visualization: Tableau, Looker Studio
 
 ## 👋🏻 Connect with me 
