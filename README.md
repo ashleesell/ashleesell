@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ashleesell/ashleesell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Hello! I'm Ashlee! I have an analytical background in Emergency Management and Research Methods, along with a lifelong love of working with data. I've developed expertise in statistical analysis, data visualization, and survey data collection.
 
-Here are some ideas to get you started:
+If you'd like to see some examples of the interesting projects I've completed, you can do that [here](https://github.com/ashleesell/PortfolioProjects).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🛠️ Tools + Software
+Language: SQL, Python, Matplotlib, Seaborn, Pandas
+Databases: Google BigQuery, MySQL
+Visualization: Tableau, Looker Studio
+
+## 👋🏻 Connect with me 
+* [Linkedin](https://www.linkedin.com/in/ashlee-sellung/)-
